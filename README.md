@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, mình là Ngô Xuân Khang 
 
-<!--
-**xuankhang2412/xuankhang2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sinh viên ngành Kỹ thuật Phần mềm @ Đại học FPT
 
-Here are some ideas to get you started:
+Chào mừng bạn đến với GitHub của mình! Dù mới là sinh viên năm nhất, mình luôn hào hứng với việc học hỏi các công nghệ mới, xây dựng dự án và tham gia các hoạt động tập thể.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Về bản thân mình:
+* 🎓 **Học vấn:** Đang theo học chuyên ngành Kỹ thuật Phần mềm. Hiện tại mình đang tập trung nghiên cứu phát triển Java Web và các hệ thống thiết bị thông minh.
+* 🛠️ **Dự án nổi bật:** Đang phát triển **IoT-Based Smart Biometric Locker** (Hệ thống tủ khóa thông minh sử dụng xác thực vân tay và lưu trữ dữ liệu lịch sử truy cập).
+* 💼 **Kinh nghiệm hoạt động:** Coreteam & Thủ kho tại **FEV** (Câu lạc bộ Tổ chức Sự kiện). Việc quản lý kho bãi và tài sản giúp mình rèn luyện kỹ năng tổ chức, quản lý rủi ro và làm việc nhóm hiệu quả.
+* 🌱 **Đang tìm hiểu:** Chiến lược CRM, trau dồi thêm tiếng Nhật và tối ưu hóa phần mềm.
+* ⚡ **Sở thích:** Mình là một người đam mê công nghệ phần cứng! Mình cực kỳ thích việc tìm hiểu, đánh giá các linh kiện PC cao cấp, tản nhiệt và tối ưu hóa hiệu năng hệ thống để chơi game hoặc chạy giả lập.
+
+### 🛠️ Ngôn ngữ & Công cụ:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+📫 **Liên hệ với mình:** [Chèn link Facebook hoặc Email của bạn vào đây]
